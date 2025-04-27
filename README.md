@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/utsavratan">Suhani<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/struveryy">Suhani<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
   <p align="center">
 <Br>
 <h1>About Me ❤</h1>
